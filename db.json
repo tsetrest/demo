@@ -1,5 +1,16 @@
-  [    {"id": 1, " nom": "nom 1", "code": "dp"},
-       {"id": 2,"nom": "nom 2","code": "dp2"},
-       {"id": 3,"nom": "nom 3","code": "dp3"}
-  ]
+{
+	"consulat": [{
+		"id": 1,
+		" nom": "nom 1",
+		"code": "dp"
+	}, {
+		"id": 2,
+		"nom": "nom 2",
+		"code": "dp2"
+	}, {
+		"id": 3,
+		"nom": "nom 3",
+		"code": "dp3"
+	}]
+}
     
